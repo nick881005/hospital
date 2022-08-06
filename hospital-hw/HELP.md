@@ -20,3 +20,4 @@ The following guides illustrate how to use some features concretely:
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
 
+在model裡Patient代表病人，ID為病歷編號，name為病人名字，age即為病人年紀
