@@ -11,4 +11,4 @@ updatePatient可以更新病人資料
 
 刪除病人則是deletePatient
 
-以上
+postman入口：http://localhost:8080/api/patient  可以獲得所有病人資料
